@@ -14,3 +14,4 @@ Spending Score (1-100): Score based on customer behavior and purchasing data
 Results
 The output of this project will include visualizations showing the clusters formed based on annual income and spending score. 
 It will help in identifying distinct customer segments that can be used for targeted marketing strategies.
+
